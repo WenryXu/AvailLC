@@ -18,3 +18,5 @@ systemctl daemon-reload
 systemctl enable avail.service
 systemctl start avail.service
 systemctl status avail.service
+
+cat identity.toml
